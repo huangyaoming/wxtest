@@ -1,0 +1,10 @@
+*.class
+
+# Package Files #
+*.war
+*.ear
+/config/sae
+/config/aliyun
+/build
+/aliyun
+/build_aliyun.xml
