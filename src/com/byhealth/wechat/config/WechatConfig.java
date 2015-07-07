@@ -43,7 +43,6 @@ public class WechatConfig extends JFinalConfig {
 		me.add(arp);
 		
 		//arp.addMapping("wechat_public_account", WechatPublicAccount.class);
-
 	}
 
 	@Override
